@@ -57,7 +57,7 @@ The LTspice simulation uses the following settings:
 
 This repository is organized as follows:
 
-* **8T_SRAM.asc:** The LTspice circuit file containing the 8T SRAM design.
+* **8T_Mywork.asc:** The LTspice circuit file containing the 8T SRAM design.
 * **Readme.md:** This file providing information about the simulation and the 8T SRAM design.
 
 ## Contributions
